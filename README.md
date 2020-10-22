@@ -13,3 +13,4 @@
 这样每次开机后都会切换分辨率一次。可以临时解决睡醒后1/4屏幕的问题。
 
 具体参考： 
+https://github.com/Babyvox550/Mi-15-Pro-1-4-/blob/main/%E8%A7%A3%E5%86%B3%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%9D%A1%E9%86%921.pdf
